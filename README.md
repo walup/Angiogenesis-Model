@@ -1,6 +1,6 @@
 # Angiogenesis-Model
 
-Implementation of a Post-angiogenic model for tumor growth, which was used kto investigate how vascular network properties influenced cancer development and therapy prognosis.
+Implementation of a Post-angiogenic model for tumor growth, which was used to investigate how vascular network properties influenced cancer development and therapy prognosis.
 
 Angiogenesis model was based on the one presented by Anderson and Chaplain:
 
