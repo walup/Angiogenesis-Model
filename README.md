@@ -9,8 +9,10 @@ Angiogenesis model was based on the one presented by Anderson and Chaplain:
 The model was adapted and docked to our previously developed tumor growth and therapy model. 
 
 
+Tests shown here require some additional resources, which can be downloaded at https://drive.google.com/drive/folders/1dbfF_97EIa0BRyUYN3HY8irlMMr-7pQ0?usp=sharing
+
+These resources should be located in the same path where the repository files are located.
 
 
-For code use consult examples illustrated in the notebook for the time being. I will provide examples for code-usage and results that can be obtained with the model on future updates of this repository.                                                                                    
 
 
